@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(90deg, rgb(244, 137, 101) 0%, rgb(217, 236, 4) 50%, rgba(252,176,69,1) 100%);
+    text-align: center;
+}
+.login_div1, .login_div2{
+    float: none;
+    background-color: aliceblue;
+    border-radius: 30px;
+    padding: 10px;
+}
